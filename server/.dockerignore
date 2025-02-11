@@ -1,2 +1,13 @@
 dist
 node_modules
+.env
+Dockerfile
+.gitignore
+.dockerignore
+.git
+
+.vscode
+.idea
+
+.nvmrc
+request.http

@@ -1,4 +1,4 @@
-GET http://localhost:8878/hello/toto
+GET http://localhost:2023/hello/toto
 
 ###
-GET http://localhost:8878/server/time
+GET http://localhost:1992/server/time
